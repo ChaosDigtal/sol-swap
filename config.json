@@ -1,0 +1,6 @@
+{
+    "fee" : 2,
+    "wallet" : "Your_Wallet_Address",
+    "wallet_secretKey": "Your_Wallet_SecretKey",
+    "RPC_NODE": "https://twilight-dawn-fire.solana-mainnet.quiknode.pro/1fee75c577db3bf813ffb25df1c403d9a6cc5df4/"
+}
